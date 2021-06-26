@@ -1,4 +1,4 @@
-#Subject: Fashion sale page 
+#Subject: Fashion shop ( Sapir) sale page 
 
 #Layout: template from https://www.free-css.com/
 #Using bootstrap https://getbootstrap.com/  
